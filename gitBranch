@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A Branch is a replication of a repository at the moment you created the branch. It can be used to create an "alternate" reality to your master branch. Thereby trying out new things without intervering with the master branch. It is also used when multiple people work on the same project. So rather than 5 people messing around in the master branch everyone can work on their own version. Once their local projects are completed they can then merge the changes with the master branch.
