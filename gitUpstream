@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usally used for, in your own words
+Git upstream is used to connect your forked changed back to the original repository. 
